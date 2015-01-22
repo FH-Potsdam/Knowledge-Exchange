@@ -1,0 +1,21 @@
+[submodule "CRAN/CRAN/tobii-Eyetracker-R"]
+	path = CRAN/CRAN/tobii-Eyetracker-R
+	url = git@github.com:fabiantheblind/tobii-Eyetracker-R.git
+[submodule "CRAN/CRAN/basic-graphs-in-cran"]
+	path = CRAN/CRAN/basic-graphs-in-cran
+	url = git@github.com:fabiantheblind/basic-graphs-in-cran.git
+[submodule "CRAN/CRAN/anscombe-quartet-in-cran"]
+	path = CRAN/CRAN/anscombe-quartet-in-cran
+	url = git@github.com:fabiantheblind/anscombe-quartet-in-cran.git
+[submodule "CRAN/anscombe-quartet-in-cran"]
+	path = CRAN/anscombe-quartet-in-cran
+	url = git@github.com:fabiantheblind/anscombe-quartet-in-cran.git
+[submodule "CRAN/basic-graphs-in-cran"]
+	path = CRAN/basic-graphs-in-cran
+	url = git@github.com:fabiantheblind/basic-graphs-in-cran.git
+[submodule "CRAN/tobii-Eyetracker-R"]
+	path = CRAN/tobii-Eyetracker-R
+	url = git@github.com:fabiantheblind/tobii-Eyetracker-R.git
+[submodule "CRAN/R-maps"]
+	path = CRAN/R-maps
+	url = git@github.com:fabiantheblind/R-maps.git
