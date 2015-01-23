@@ -1,6 +1,12 @@
 GO-R-Knowledge-Exchange
 =======================
 
+Setup:  
+
+    git clone git@github.com:FH-Potsdam/GO-R-Knowledge-Exchange.git
+    git submodule init && git submodule update  
+
+
 
 (fabiantheblind) R Ressources:  
 
