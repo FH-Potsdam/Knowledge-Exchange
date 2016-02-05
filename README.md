@@ -1,6 +1,8 @@
 GO-R-Knowledge-Exchange
 =======================
 
+[![Join the chat at https://gitter.im/FH-Potsdam/Knowledge-Exchange](https://badges.gitter.im/FH-Potsdam/Knowledge-Exchange.svg)](https://gitter.im/FH-Potsdam/Knowledge-Exchange?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Setup:  
 
     git clone git@github.com:FH-Potsdam/GO-R-Knowledge-Exchange.git
